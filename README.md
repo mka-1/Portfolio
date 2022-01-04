@@ -1,0 +1,1 @@
+This project was done using HTML, CSS and JavaScript
